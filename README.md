@@ -4,6 +4,8 @@
 
 - Cursor IDE
 - GitHub
+- Claude Code extension
+- Codex extension
 
 ## Steps Completed
 
@@ -15,9 +17,3 @@
 ## Issues Encountered
 
 I was new to GitHub and Cursor, so I learned how to create a repository and use Cursor. I searched for documentation and tutorials whenever I needed help.
-
-## Next Steps
-
-- Install Claude Code extension.
-- Install Codex extension.
-- Update this README after completing the setup.
