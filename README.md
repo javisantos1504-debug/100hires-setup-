@@ -13,6 +13,8 @@
 2. Created a public GitHub repository.
 3. Installed Cursor IDE.
 4. Opened the repository in Cursor.
+5. Installed Claude Code extension.
+6. Installed Codex extension.
 
 ## Issues Encountered
 
